@@ -20,6 +20,7 @@ body{
   border-radius: 45px;
   color: white;
   font-size: 20px;
+  box-shadow: 3px 3px 8px tomato;
 }
 .half-width{
   width: 50%;
@@ -47,6 +48,7 @@ div img{
 .second-content{
   margin-right: 200px;
   margin-top: 150px;
+  margin-bottom: 50px;
 }
 .third-content{
   margin-left: 100px;
@@ -103,6 +105,20 @@ section{
   margin-left: 10%;
   margin-right: 10%;
 }
-span{
-  font-size: 12px;
+.counter-child p{
+  font-size: 14px;
+  font-weight: 800;
+}
+.counter-child h1{
+  font-weight: 900;
+}
+.footer{
+  background-color: black;
+  color: rgba(92, 184, 153, 0.816);
+  height: 200px;
+  margin-bottom: 0;
+  text-align: center;
+}
+.color-orange{
+  color:orange;
 }
