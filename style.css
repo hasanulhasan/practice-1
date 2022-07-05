@@ -48,6 +48,12 @@ div img{
   margin-right: 200px;
   margin-top: 150px;
 }
+.third-content{
+  margin-left: 100px;
+}
+.fourth-content{
+  margin-left: 25%;
+}
 section{
   margin-bottom: 120px;
 }
@@ -73,9 +79,7 @@ section{
   border-radius: 10px;
   margin-right: 35px;
 }
-.third-content{
-  margin-left: 100px;
-}
+
 .cards{
   display: flex;
   margin-left: 20%;
@@ -88,4 +92,17 @@ section{
 .card-text{
   margin-left: 15px;
   margin-right: 15px;
+}
+.counter{
+  display: flex;
+  box-shadow: 10px 10px 20px gray;
+  width: 70%;
+  border-radius: 10px;
+}
+.counter-child{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+span{
+  font-size: 12px;
 }
