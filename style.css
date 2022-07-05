@@ -1,0 +1,33 @@
+.banner{
+  display: flex;
+  margin-left: 15%;
+  margin-left: 15%;
+}
+.button{
+  text-decoration: none;
+  padding: 15px 50px;
+  background-color: tomato;
+  font-weight: 700;
+  border-radius: 20px;
+  color: white;
+  font-size: 20px;
+}
+.half-width{
+  width: 50%;
+}
+h1{
+  font-size: 45px;
+}
+h3{
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+div img{
+  width: 70%;
+}
+.first-content{
+  margin-top: 100px;
+}
+section{
+  margin-bottom: 150px;
+}
